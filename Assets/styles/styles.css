@@ -5,3 +5,14 @@ nav .nav-link {
 .page-header {
     margin-top: 0.5rem;
 }
+
+/* footer {
+    position: fixed;
+    bottom: 0;
+    height: 1rem;
+    width: 100%;
+   } */
+
+   .py-4 {
+    padding-bottom: 1rem!important;
+}
