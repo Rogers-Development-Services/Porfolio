@@ -6,15 +6,18 @@ nav .nav-link {
     margin-top: 0.5rem;
 }
 
+#everythingButFooter {
+    min-height: calc(100vh - 50px);
+}
+
 footer {
     height: 40px;
-    font-size: 10px;
     padding-top: 10px;
     box-sizing: content-box;
     display: flex;
     align-items: center;
     justify-content: center;
-    border-top: 6px #4AAAA5 solid;
+    border-top: 6px #38b09a solid;
 }
 
    /* .py-4 {
