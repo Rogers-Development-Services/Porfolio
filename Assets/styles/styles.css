@@ -6,6 +6,10 @@ nav .nav-link {
     margin-top: 0.5rem;
 }
 
+form button .btn .button-primary {
+    background-color: #b0384e;
+}
+
 #everythingButFooter {
     min-height: calc(100vh - 50px);
 }   
