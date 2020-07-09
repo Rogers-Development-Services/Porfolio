@@ -6,13 +6,17 @@ nav .nav-link {
     margin-top: 0.5rem;
 }
 
-/* footer {
-    position: fixed;
-    bottom: 0;
-    height: 1rem;
-    width: 100%;
-   } */
-
-   .py-4 {
-    padding-bottom: 1rem!important;
+footer {
+    height: 40px;
+    font-size: 10px;
+    padding-top: 10px;
+    box-sizing: content-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top: 6px #4AAAA5 solid;
 }
+
+   /* .py-4 {
+    padding-bottom: 1rem!important;
+} */
