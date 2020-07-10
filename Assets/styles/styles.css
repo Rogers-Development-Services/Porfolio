@@ -10,11 +10,11 @@ nav .nav-link {
     background-color: #b0384e;
 }
 
-#everythingButFooter {
+#everything-but-footer {
     min-height: calc(100vh - 50px);
 }   
 
-footer {
+#footer {
     height: 40px;
     padding-top: 10px;
     box-sizing: content-box;
