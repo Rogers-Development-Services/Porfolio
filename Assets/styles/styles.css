@@ -10,6 +10,7 @@ nav .nav-link {
     background-color: #b0384e;
 }
 
+/* Sticky Footer */
 #everything-but-footer {
     min-height: calc(100vh - 50px);
 }   
@@ -24,10 +25,44 @@ nav .nav-link {
     border-top: 6px #38b09a solid;
 }
 
-   /* .py-4 {
-    padding-bottom: 1rem!important;
-} */
+/* Social Media Icons */
+.fa {
+    padding: 20px;
+    float: right;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
 
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+
+
+/* Responsive Design */
 @media only screen and (max-width: 480px) {
     .container {
         max-width: 100%;
