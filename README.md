@@ -2,7 +2,12 @@
 
 Here at Rogers Development Services (RDS) we pride ourselves on the excellence of any product you want to market online. Our team commitment is to provide an client with excellent Web Design, Coaching, and Technical Writing Services.
 
-[Deployed Application](https://rogers-development-services.github.io/Portfolio/index.html)
+Click this link to access the [Deployed Application](https://rogers-development-services.github.io/Portfolio/index.html)
+
+## Screenshots
+
+Here is an example of our site in action: three images of our site in action:
+Contact Us:
 ![alt text](https://raw.githubusercontent.com/Rogers-Development-Services/Portfolio/master/Assets/Images/Deployed%20Application.JPG "Application Img1")
 
 ## Usage 
