@@ -1,7 +1,7 @@
 # Rogers Development Services Landing Page
 
 [Deployed Application](https://rogers-development-services.github.io/Portfolio/index.html)
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/Rogers-Development-Services/Portfolio/master/Assets/Images/Deployed%20Application.JPG "Application Img1")
 
 Here at Rogers Development Services (RDS) we pride ourselves on the excellence of any product you want to market online. Our team commitment is to provide an client with excellent Web Design, Coaching, and Technical Writing Services.
 
