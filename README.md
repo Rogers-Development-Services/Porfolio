@@ -1,5 +1,8 @@
 # Rogers Development Services Landing Page
 
+[Deployed Application](https://rogers-development-services.github.io/Portfolio/index.html)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 Here at Rogers Development Services (RDS) we pride ourselves on the excellence of any product you want to market online. Our team commitment is to provide an client with excellent Web Design, Coaching, and Technical Writing Services.
 
 ## Usage 
@@ -13,6 +16,8 @@ Share with us with any comments or questions to help us grow! Navigate to our Co
 ## Credits
 
 Guidence for ADA Compliance Standards was given by the [MATCHBOX Design Group](https://matchboxdesigngroup.com/blog/website-accessibility-and-ada-compliance/#ADA_Compliance_Standards_For_Designers_And_Developers_Explained)
+
+Bootstrap 4.5 was used for styling this project.
 
 ## License
 
