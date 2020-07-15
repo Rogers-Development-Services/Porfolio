@@ -22,7 +22,9 @@ Share with us with any comments or questions to help us grow! Navigate to our Co
 
 Guidence for ADA Compliance Standards was given by the [MATCHBOX Design Group](https://matchboxdesigngroup.com/blog/website-accessibility-and-ada-compliance/#ADA_Compliance_Standards_For_Designers_And_Developers_Explained)
 
-Bootstrap 4.5 was used for styling this project.
+[Bootstrap 4.5](https://getbootstrap.com/docs/4.5/getting-started/introduction/) was used for styling this project.
+
+Social Media Icons used from [w3schools](https://www.w3schools.com/howto/howto_css_social_media_buttons.asp)
 
 ## License
 
