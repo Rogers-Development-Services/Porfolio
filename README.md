@@ -1,9 +1,9 @@
 # Rogers Development Services Landing Page
 
+Here at Rogers Development Services (RDS) we pride ourselves on the excellence of any product you want to market online. Our team commitment is to provide an client with excellent Web Design, Coaching, and Technical Writing Services.
+
 [Deployed Application](https://rogers-development-services.github.io/Portfolio/index.html)
 ![alt text](https://raw.githubusercontent.com/Rogers-Development-Services/Portfolio/master/Assets/Images/Deployed%20Application.JPG "Application Img1")
-
-Here at Rogers Development Services (RDS) we pride ourselves on the excellence of any product you want to market online. Our team commitment is to provide an client with excellent Web Design, Coaching, and Technical Writing Services.
 
 ## Usage 
 
