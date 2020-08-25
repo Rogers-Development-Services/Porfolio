@@ -17,11 +17,11 @@ h1 {
 }   
 
 #footer {
-    height: 40px;
+    min-height: 40px;
     padding-top: 10px;
     box-sizing: content-box;
     display: flex;
-    align-items: center;
+    flex-direction: column;
     justify-content: center;
     border-top: 6px #38b09a solid;
 }
@@ -73,5 +73,32 @@ h1 {
 
   .fa-linkedin {
     background: #007bb5;
+    color: white;
+  }
+
+  .fa-github-square {
+    background: #007bb5;
+    color: white;
+  }
+
+  .fa-envelope {
+    color: white;
+  }
+
+  footer
+
+  #phone, #email {
+    color: #38b09a;
+  }
+
+  a[href^="tel:"], a[href^="mailto:"] {
+    color: #38b09a;
+  }
+
+  a[href^="tel:"]:hover, a[href^="mailto:"]:hover {
+    color: white;
+  }
+
+  .portfolio-links {
     color: white;
   }
