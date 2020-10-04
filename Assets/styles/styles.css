@@ -23,6 +23,7 @@ h1 {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
     border-top: 6px #38b09a solid;
 }
 
@@ -101,4 +102,11 @@ h1 {
 
   .portfolio-links {
     color: white;
+  }
+
+  #burger {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
   }
